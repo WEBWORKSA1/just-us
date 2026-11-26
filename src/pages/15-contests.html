@@ -1,0 +1,24 @@
+{"path": "contests/", "title": "Monthly story contest for couples", "desc": "Enter the Just.us monthly contest. Share a short true story on this month's theme for a chance to win a date-night prize and a feature on the site.", "h1": "The monthly story contest", "lede": "Every month has a theme. Tell us a short, true story that fits it. The best one wins a prize and is published on the site.", "prio": "0.7"}
+<section class="section"><div class="wrap split" style="align-items:start">
+<div>
+<div class="panel"><p class="eyebrow">Theme for {{month}}</p><h2>{{contest_theme}}</h2><p><strong>Prize:</strong> {{contest_prize}}.</p><p><strong>Closes:</strong> {{contest_deadline}}, 23:59 UTC · <span class="streak" data-until="{{contest_iso}}"></span></p></div>
+<h2>How it works</h2>
+<ol><li>Write up to 300 words about something that really happened to the two of you.</li><li>Send it with the form before the closing date. One entry per person each month.</li><li>The editors choose a winner within fourteen days of closing, judging on originality, warmth and how useful the story is to other couples.</li><li>The winner is contacted by email and the story is published with first names only.</li></ol>
+<h2>Rules</h2>
+<ul><li>No purchase or payment is needed to enter or win. Supporting the site does not improve your chances.</li><li>Open to adults aged 18 or over. Void where prohibited or restricted by law.</li><li>Entries must be your own, true, family-friendly and not published elsewhere. Do not include other people’s private details.</li><li>The prize is as described above, or an equivalent of the same value where a gift card is unavailable in the winner’s country. No cash alternative unless we offer one. Any taxes are the winner’s responsibility.</li><li>If a winner does not reply within fourteen days, another entry may be chosen. If no entry meets the standard, the prize may roll over.</li><li>By entering you allow Just.us to edit lightly and publish your story on the site and its channels, credited by first name. You keep the copyright.</li><li>The editors’ decision is final. Details you submit are used only to run the contest, as set out in the <a href="@@/privacy/">privacy policy</a>.</li></ul>
+<p>Brands and venues: <a href="@@/partners/">sponsor next month’s prize</a>.</p>
+</div>
+<div>
+<form class="form panel" data-form="contest" data-subject="Contest entry" data-done="contest-done">
+<div class="hp" aria-hidden="true"><label>Leave empty<input name="_honey" tabindex="-1" autocomplete="off"></label></div>
+<input type="hidden" name="theme" value="{{contest_theme}}">
+<div class="row"><div><label for="c-name">First name</label><input id="c-name" name="name" required autocomplete="given-name"></div><div><label for="c-email">Email</label><input id="c-email" name="email" type="email" required autocomplete="email"></div></div>
+<div><label for="c-country">Country</label><input id="c-country" name="country" required autocomplete="country-name"></div>
+<div><label for="c-story">Your story <span class="hint">up to 300 words</span></label><textarea id="c-story" name="story" rows="9" required minlength="80" maxlength="2200"></textarea></div>
+<label class="check"><input type="checkbox" name="adult" value="yes" required> <span>I am 18 or over and this story is true and my own.</span></label>
+<label class="check"><input type="checkbox" name="rules" value="yes" required> <span>I accept the contest rules and agree that my story may be published with my first name.</span></label>
+<button class="btn" type="submit">Submit my entry</button>
+</form>
+<div id="contest-done" class="done" tabindex="-1" hidden><h2>Entry received</h2><p>Good luck. If your story wins, we will email you within fourteen days of the closing date.</p></div>
+</div>
+</div></section>

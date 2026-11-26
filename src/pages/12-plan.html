@@ -1,0 +1,48 @@
+{"path": "plan/", "title": "Get a custom date plan, free", "desc": "Tell us the occasion, your area and your budget. We send back a date plan made for the two of you, with timings and a bad-weather back-up. Free.", "h1": "Have your next date planned for you", "lede": "Three short steps. We reply by email with a plan built around your occasion, area and budget. It is free and there is nothing to sign up for.", "strip": false, "prio": "0.9"}
+<section class="section"><div class="wrap split" style="align-items:start">
+<div>
+<form class="form panel" data-form="date-plan" data-steps data-subject="Custom date plan request" data-done="plan-done">
+<div class="progress"><b></b></div>
+<div class="hp" aria-hidden="true"><label>Leave empty<input name="_honey" tabindex="-1" autocomplete="off"></label></div>
+<fieldset class="step"><legend>1. What is the occasion?</legend>
+<div class="choices">
+<label><input type="radio" name="occasion" value="Regular date night" required> Regular date night</label>
+<label><input type="radio" name="occasion" value="Anniversary"> Anniversary</label>
+<label><input type="radio" name="occasion" value="Birthday"> Birthday</label>
+<label><input type="radio" name="occasion" value="First or early date"> First or early date</label>
+<label><input type="radio" name="occasion" value="Proposal"> Proposal</label>
+<label><input type="radio" name="occasion" value="Long-distance visit"> Long-distance visit</label>
+</div>
+<div class="row"><div><label for="p-when">Roughly when? <span class="hint">optional</span></label><input id="p-when" name="when" type="date"></div>
+<div><label for="p-len">How long have you got?</label><select id="p-len" name="length"><option>An evening</option><option>A couple of hours</option><option>A full day</option><option>A weekend</option></select></div></div>
+<p><button type="button" class="btn" data-next>Next: place and budget</button></p></fieldset>
+<fieldset class="step"><legend>2. Where, and how much?</legend>
+<div class="row"><div><label for="p-city">Town or city</label><input id="p-city" name="city" required autocomplete="address-level2"></div>
+<div><label for="p-country">Country or region</label><input id="p-country" name="country" required autocomplete="country-name"></div></div>
+<div class="row"><div><label for="p-budget">Budget for two</label><select id="p-budget" name="budget"><option>Free</option><option>Under $20</option><option selected>$20 to $60</option><option>$60 to $150</option><option>$150 or more</option></select></div>
+<div><label for="p-where">Home or out?</label><select id="p-where" name="where"><option>Either</option><option>At home</option><option>Out</option></select></div></div>
+<div><label>What do you both enjoy? <span class="hint">tick any</span></label><div class="choices">
+<label><input type="checkbox" name="likes" value="Food and drink"> Food and drink</label>
+<label><input type="checkbox" name="likes" value="Outdoors"> Outdoors</label>
+<label><input type="checkbox" name="likes" value="Arts and culture"> Arts and culture</label>
+<label><input type="checkbox" name="likes" value="Active"> Being active</label>
+<label><input type="checkbox" name="likes" value="Cozy and quiet"> Cozy and quiet</label>
+<label><input type="checkbox" name="likes" value="Something new"> Something new</label></div></div>
+<div><label for="p-notes">Anything to plan around? <span class="hint">optional: dietary needs, access, children, weather</span></label><textarea id="p-notes" name="notes" rows="3" maxlength="800"></textarea></div>
+<p class="gen-actions"><button type="button" class="btn ghost" data-prev>Back</button><button type="button" class="btn" data-next>Next: where to send it</button></p></fieldset>
+<fieldset class="step"><legend>3. Where should we send your plan?</legend>
+<div class="row"><div><label for="p-name">First name</label><input id="p-name" name="name" required autocomplete="given-name"></div>
+<div><label for="p-email">Email</label><input id="p-email" name="email" type="email" required autocomplete="email"></div></div>
+<label class="check"><input type="checkbox" name="consent" value="yes" required> <span>Email me my date plan. I have read the <a href="@@/privacy/">privacy policy</a>.</span></label>
+<label class="check"><input type="checkbox" name="offers" value="yes"> <span>Optional: you may include relevant offers from venues or experience providers near me.</span></label>
+<label class="check"><input type="checkbox" name="newsletter" value="yes"> <span>Optional: also send me The Friday Two, one date idea and one question a week.</span></label>
+<p class="gen-actions"><button type="button" class="btn ghost" data-prev>Back</button><button type="submit" class="btn">Send my request</button></p></fieldset>
+</form>
+<div id="plan-done" class="done" tabindex="-1" hidden><h2>Request received</h2><p>Thank you. Your plan will arrive at the email address you gave, usually within a few days. While you wait, <a href="@@/dates/">spin a date for tonight</a>.</p></div>
+</div>
+<aside>
+<div class="panel"><h3>What you get back</h3><ul><li>One main plan with timings</li><li>A back-up for bad weather or a change of mood</li><li>Three questions matched to the occasion</li><li>A rough cost so there are no surprises</li></ul></div>
+<div class="panel" style="margin-top:1rem"><h3>Good to know</h3><ul><li>Free for couples. No account, no card.</li><li>We only email about your request unless you tick the optional boxes.</li><li>Plans are suggestions. Please check opening times and prices before you go.</li></ul></div>
+<div class="panel" style="margin-top:1rem"><h3>Run a venue or experience?</h3><p>If couples are your customers, <a href="@@/partners/">see how to be recommended</a>.</p></div>
+</aside>
+</div></section>
