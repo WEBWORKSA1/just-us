@@ -1,0 +1,43 @@
+{
+  "name": "Just.us",
+  "url": "https://just.us",
+  "nav": [
+    ["dates/", "Date ideas"],
+    ["questions/", "Questions"],
+    ["play/", "Games"],
+    ["quiz/", "Quiz"],
+    ["tools/", "Tools"],
+    ["guides/", "Guides"],
+    ["today/", "Today"]
+  ],
+  "feeds": [
+    {"name": "The Gottman Institute", "home": "https://www.gottman.com/blog/", "url": "https://www.gottman.com/feed/", "filter": false},
+    {"name": "Greater Good Magazine", "home": "https://greatergood.berkeley.edu/", "url": "https://greatergood.berkeley.edu/site/rss/articles", "filter": true},
+    {"name": "Tiny Buddha", "home": "https://tinybuddha.com/", "url": "https://tinybuddha.com/feed/", "filter": true},
+    {"name": "Mark Manson", "home": "https://markmanson.net/", "url": "https://markmanson.net/feed", "filter": true}
+  ],
+  "channels": [
+    {"name": "The Gottman Institute", "id": "UCnT1R08f7FHLab3nB4f0AGQ", "filter": false},
+    {"name": "The School of Life", "id": "UC7IcJI8PUf5Z3zKxnZvTBog", "filter": true},
+    {"name": "TED", "id": "UCAuUUnT6oDeKwE6v1NGQxug", "filter": true},
+    {"name": "Psych2Go", "id": "UCkJEpR7JmS36tajD34Gp4VA", "filter": true}
+  ],
+  "keywords": ["relationship", "couple", "love", "marriage", "married", "partner", "dating", "date night", "romance", "romantic", "spouse", "intimacy", "friendship", "conflict", "trust", "listening", "apolog", "communicat", "connection", "lonel"],
+  "contest": {
+    "prize": "a US$50 date-night gift card and a feature on the site",
+    "themes": [
+      "The best date we had for under $20",
+      "The question that changed a conversation",
+      "Our best rainy-day date",
+      "A long-distance ritual that works",
+      "The date that went wrong and became a favourite story",
+      "Our best outdoor date",
+      "A summer evening we would repeat",
+      "The best date we had without leaving home",
+      "A tradition we invented",
+      "Our best autumn day out",
+      "The kindest small thing my person does",
+      "Our favourite winter night in"
+    ]
+  }
+}
