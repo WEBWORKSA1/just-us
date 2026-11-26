@@ -1,0 +1,1 @@
+{"name": "Just.us", "short_name": "Just.us", "start_url": "./", "display": "standalone", "background_color": "#fbf5ec", "theme_color": "#16383c", "icons": [{"src": "assets/img/icon-512.png", "sizes": "512x512", "type": "image/png"}]}
