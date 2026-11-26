@@ -1,0 +1,152 @@
+# @wyr: two options separated by ~      @knowme: {name} is replaced with a player's name
+# @challenge: tiny daily challenges      @quiz: question | words | time | help | gestures | closeness
+
+@wyr
+have dinner under the stars ~ have breakfast in bed
+plan every detail of a trip ~ show up at the airport and pick a flight
+get a handwritten letter ~ get a surprise day out
+spend a weekend in a cabin in the woods ~ spend it in a hotel in a big city
+cook together every night ~ eat out every night
+relive our first date ~ fast-forward to our fiftieth anniversary for one day
+have a home with a huge kitchen ~ have a home with a huge garden
+always know what I am thinking ~ always be able to make me laugh
+take a dance class together ~ take a cooking class together
+go on one big holiday a year ~ go on six small weekends away
+watch the sunrise together ~ watch the sunset together
+have a quiet night in ~ have a loud night out
+be able to pause time on good days ~ be able to rewind and redo awkward moments
+share one dessert ~ order one each and swap halfway
+live by the sea ~ live in the mountains
+receive one big present ~ receive lots of small ones
+have a personal chef ~ have a personal cleaner
+spend a rainy day with films ~ spend a rainy day with board games
+learn a language together ~ learn an instrument together
+travel back to see how our grandparents met ~ travel forward to meet our great-grandchildren
+have a dog ~ have a cat
+do karaoke in front of strangers ~ do a dance routine in front of friends
+get up early together ~ stay up late together
+own a tiny house we love ~ own a big house that needs work
+double-date with our closest friends ~ go out just the two of us
+have every meal be a picnic ~ have every meal be a candlelit dinner
+go camping ~ go to a spa
+always pick the film ~ always pick the restaurant
+have a slow Sunday at home ~ have a Sunday full of plans
+win a trip around the world ~ win our dream home
+text all day ~ have one long phone call
+celebrate birthdays with a party ~ celebrate with a trip
+live in the same house forever ~ move somewhere new every five years
+read the same book ~ watch the same series
+have a job you love with long hours ~ have an average job with lots of free time
+explore a new city on foot ~ explore it by bike
+be surprised with a gift ~ choose your own gift together
+spend a day with no phones ~ spend a day with no clocks
+take a road trip ~ take a train journey
+have a fireplace ~ have a hot tub
+renew our vows on a beach ~ renew them in our back garden
+go to a concert ~ go to a comedy show
+have matching outfits for a day ~ swap wardrobes for a day
+run a cafe together ~ run a bookshop together
+spend a month travelling Europe ~ spend a month travelling Asia
+have breakfast for dinner ~ have dessert for breakfast
+be famous for something we made together ~ be anonymous and comfortable
+have more time ~ have more money
+write a song about us ~ paint a picture of us
+go back to our favourite place ~ discover somewhere completely new
+
+@knowme
+What is {name}'s go-to comfort food?
+What would {name} order at a coffee shop?
+What is {name}'s biggest pet peeve?
+Which film could {name} watch over and over?
+What is {name}'s dream holiday destination?
+What was {name}'s first job?
+What is {name}'s favourite way to relax?
+Which chore does {name} dislike most?
+What is {name}'s favourite season?
+What was {name}'s favourite subject at school?
+What is {name} most afraid of?
+What is {name}'s favourite childhood memory?
+Which song does {name} always turn up?
+What would {name} choose for a last meal?
+What is {name}'s hidden talent?
+Who is {name}'s oldest friend?
+What does {name} do first in the morning?
+What is {name}'s favourite thing to wear?
+Which superpower would {name} choose?
+What is {name}'s proudest achievement?
+What is the first thing {name} would buy after winning the lottery?
+Which snack can {name} never resist?
+What is {name}'s favourite smell?
+What was the name of {name}'s first pet or favourite toy?
+What is {name}'s favourite board or card game?
+Which city does {name} most want to visit?
+What is {name}'s favourite ice-cream flavour?
+What makes {name} laugh every single time?
+What does {name} always forget?
+What is {name}'s favourite holiday or celebration?
+Which celebrity would {name} love to have dinner with?
+What is {name}'s favourite takeaway order?
+What sport or activity did {name} love as a child?
+What is {name}'s favourite room in the house?
+What would {name} say is their worst habit?
+What is {name}'s favourite thing about weekends?
+Which app does {name} open most often?
+What colour would {name} paint the bedroom?
+What is {name}'s favourite breakfast?
+What does {name} like best about the two of you?
+
+@challenge
+Send one message today that says thank you for something specific.
+Give a twenty-second hug the next time you are in the same room. Time it.
+Ask about one thing your partner mentioned earlier this week, and listen to the whole answer.
+Leave a note somewhere it will be found tomorrow morning.
+Put both phones in another room for the first twenty minutes you are home together.
+Take one small job off your partner's list without mentioning it.
+Share one photo from your camera roll and tell the story behind it.
+Make or bring your partner a drink exactly the way they like it.
+Say out loud one thing you admire about how your partner handled this week.
+Plan one tiny thing to look forward to this weekend and put it in the calendar.
+Tell your partner about the best moment of your day in three sentences.
+Play one song each that matches your mood and guess why the other chose it.
+Go for a ten-minute walk together with no destination.
+Ask what would make tomorrow easier, and do one part of it.
+Trade one compliment that has nothing to do with looks.
+Cook, order or eat one thing together without a screen on.
+Recall your favourite memory from the past month and compare.
+Stretch for five minutes side by side before bed.
+Send a voice note instead of a text today.
+Name one thing you are looking forward to doing together this year.
+Teach each other one thing you learned this week.
+Sit next to each other, not opposite, for one meal today.
+Ask your partner to rate their day out of ten, then ask what would add one point.
+Look through three old photos together and pick the one to print.
+Swap one chore for the day.
+Write down three things you appreciate about each other and trade lists.
+Spend two minutes planning your next date; pick the day before you stop.
+Say goodnight properly: screens down, eye contact, one kind sentence.
+Share one worry, however small, and just listen to each other's without solving it.
+Make your partner laugh on purpose once today.
+Put on one song and dance in the kitchen until it ends.
+Tell each other one thing you would like to do more often together.
+Send a midday message that has nothing to do with logistics.
+Pick a question from any deck and both answer it over dinner.
+Greet each other at the door today as if it has been a week.
+Choose one thing to tidy or fix together for ten minutes, with music on.
+Tell your partner one thing they did this month that made you proud.
+Agree on one screen-free hour this week and protect it.
+Share the last thing that made you laugh out loud.
+End the day by each finishing the sentence: today I was glad that.
+
+@quiz
+After a hard day, what helps most? | Hearing that you believe in me | Sitting with me with no distractions | Dinner already handled when I walk in | A small treat picked up on the way home | A long hug before anything is said
+Which birthday gesture would mean the most? | A card that says exactly what I mean to you | A whole day planned around being together | You taking care of every detail so I can relax | A present that shows you remembered something I said | Waking up wrapped in a hug
+We have been busy for weeks. What do you miss first? | Kind words and compliments | Unhurried time, just us | The way you help without being asked | Little surprises and notes | Sitting close and holding hands
+You did something you are proud of. What do you hope for? | Being told specifically what impressed you | Going out together to celebrate | Having my chores covered so I can enjoy it | A small keepsake to mark it | A big squeeze and a kiss on the forehead
+Which of these would sting the most? | A careless, critical comment | Plans cancelled at the last minute | A promise to help that gets forgotten | A forgotten anniversary | Being brushed off when I reach for you
+On an ordinary weekday, what makes you feel loved? | A message saying you are thinking of me | Ten minutes of full attention when we get home | Finding the tank filled or the dishes done | Your favourite snack appearing in my bag | A hand on my back as you pass
+We are apart for a week. What helps most? | A voice note telling me what you miss | A long, unhurried video call | You sorting something out for me back home | A postcard or parcel arriving | Knowing a proper hug is waiting at the door
+After a disagreement, what repairs things fastest? | A sincere, spoken apology | Sitting down and talking it through with no rush | A thoughtful act that shows you listened | A small peace offering | Reaching for my hand
+Which weekend sounds best? | One full of good conversation and encouragement | Two days of doing everything together | One where you take over my to-do list | One where you surprise me with something chosen for me | A slow one, curled up next to each other
+How do you most naturally show you care? | I say it, often and in detail | I clear my diary and show up | I fix, carry, cook or organise | I find the perfect small thing | I hug, hold hands and stay close
+You are unwell. What do you want? | Kind, reassuring words | You staying beside me | Soup made, errands run, everything handled | A get-well treat or flowers | A cool hand on my forehead
+Which memory would you treasure most? | A toast you gave about me | A long day with nowhere else to be | The time you dropped everything to help me | The gift I still keep in a drawer | Dancing slowly in the kitchen

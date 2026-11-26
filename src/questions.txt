@@ -1,0 +1,325 @@
+# Question decks:  @deck | slug | Name | Page heading | intro      then one question per line.
+
+@deck | getting-to-know-you | Getting to know you | Getting-to-know-you questions for new couples | Easy openers for the early days. They are light enough for a second date and revealing enough to tell you who you are sitting across from.
+What is a small thing that reliably makes your day better?
+Which meal could you eat every week and never get bored of?
+What did you want to be when you were ten?
+What is the best trip you have ever taken, and what made it so good?
+Are you more of a morning person or a night person, and has that always been true?
+What is something you are oddly good at?
+Who in your life makes you laugh the hardest?
+What does a perfect lazy Sunday look like for you?
+What is a film or book you wish you could experience again for the first time?
+What was your first job, and what did it teach you?
+Which of your friends have you known the longest?
+What is something you changed your mind about in the last few years?
+What is your favourite way to spend an evening alone?
+What smell takes you straight back to childhood?
+If you had a free afternoon tomorrow, what would you do with it?
+What is a tradition from your family that you would like to keep?
+What is the most spontaneous thing you have ever done?
+Which city or place feels most like home to you?
+What are you currently looking forward to?
+What do people usually get wrong about you at first?
+What is a skill you would love to learn if time were no issue?
+What kind of music did you love as a teenager?
+What is the kindest thing a stranger has ever done for you?
+How do you like to be cheered up after a rough day?
+What is one thing you would like me to know about you early on?
+
+@deck | deep | Deep questions | Deep questions to ask your partner | Slower questions for when you have time and privacy. Answer honestly, listen without fixing, and stop after three or four.
+What is a belief you hold now that your younger self would be surprised by?
+When do you feel most like yourself?
+What is something you are still learning to forgive yourself for?
+What does feeling safe with someone mean to you?
+Which moment in your life changed your direction the most?
+What do you wish people asked you about more often?
+What fear has shaped more of your decisions than you would like?
+When did you last feel truly proud of yourself?
+What did your family teach you about love, in words or by example?
+What is a need of yours that you find hard to say out loud?
+What does a good life look like to you at eighty?
+What part of your past do you think I understand least?
+When you are stressed, what do you most need from me?
+What is something you gave up that you sometimes miss?
+What makes you feel respected?
+Which of your values would you never compromise on?
+What is the hardest thing you have ever had to tell someone?
+What are you carrying at the moment that I might not have noticed?
+How has your idea of success changed over time?
+What do you think we do better together than apart?
+When have you felt most supported by me?
+What is one thing you would like us to be braver about?
+What is a compliment you received that you have never forgotten?
+What would you do differently if you knew nobody would judge you?
+What do you hope people say about how you treated them?
+
+@deck | fun | Fun questions | Fun questions for couples | Light, silly and quick. Good for car journeys, queues and the gap between ordering and the food arriving.
+If we opened a restaurant together, what would it serve and what would it be called?
+Which fictional couple are we most like?
+What would your walk-on song be?
+If you could have any animal as a well-behaved pet, which would you pick?
+What is the worst haircut you have ever had?
+Which household chore would you happily never do again?
+If we swapped jobs for a day, what would go wrong first?
+What is your most irrational pet peeve?
+What would the title of your autobiography be?
+Which game show would the two of us win?
+What is the strangest food combination you secretly enjoy?
+If you could instantly master one instrument, which would it be?
+What is the most embarrassing song you know every word to?
+If we had a theme tune as a couple, what would it sound like?
+What would you do first with a completely free week and no obligations?
+Which decade would you visit for a weekend?
+What is your signature dance move, honestly?
+If you were a kitchen appliance, which one would you be?
+What trend did you fall for that you now regret?
+Who would play each of us in the film of our lives?
+What is the least useful talent you have?
+If you had to enter a talent show tomorrow, what would your act be?
+What is a hill you will absolutely die on, however small?
+Which of us would last longer on a desert island, and why?
+What would our team name be on a quiz night?
+
+@deck | future | Future and dreams | Questions about the future for couples | Where are you two heading? These help you compare maps before you are halfway down the road.
+Where would you like us to be living in five years?
+What is one thing you want to have done before the end of next year?
+What does your ideal ordinary weekday look like a few years from now?
+Which trip do you most want us to take together?
+What is a dream you have not told many people about?
+How do you picture us celebrating our next big milestone?
+What would you like to be known for among the people closest to you?
+What new tradition would you like us to start?
+What is something you would like us to learn together?
+How do you imagine your working life changing over the next decade?
+What does being a good partner look like to you ten years in?
+What kind of home makes you feel most at ease?
+Which habits would you like us to build this year?
+What would you like more of in our life, and what would you like less of?
+If money were not a factor, how would you spend your days?
+What is a project you would love for us to take on together?
+How do you want us to handle it when our plans turn out to differ?
+What part of getting older are you looking forward to?
+What would make next year a great year for you?
+Which of your goals could I help with most?
+What place would you like to visit again with me?
+What do you hope never changes about us?
+How would you like us to spend holidays in the years ahead?
+What is one risk you would like us to take together?
+When you imagine us old, what are we doing?
+
+@deck | memories | Memories | Memory questions for couples | Look back together. Remembering good moments out loud is one of the simplest ways to feel close again.
+What do you remember about the first time you saw me?
+When did you first realise you liked me?
+What is your favourite photograph of us, and why that one?
+Which of our dates do you think about most often?
+What is the funniest thing that has happened to us?
+When did you feel proudest of us as a team?
+What song takes you back to when we met?
+What was the first meal we cooked together?
+Which trip of ours would you repeat exactly as it was?
+What small moment with me do you replay more than I would guess?
+What was your first impression of my friends or family?
+When did we laugh so hard we could not stop?
+What is a hard time we got through that made us stronger?
+What is the best present I have ever given you?
+What did you tell your friends about me in the beginning?
+Which ordinary day with me turned out to be a favourite?
+What is something I did early on that won you over?
+Where were we the last time you thought, I want to remember this?
+What is a private joke of ours you love most?
+Which of our plans went wrong in the best way?
+What did you learn about me in our first year that surprised you?
+What is your favourite thing we have ever made or built together?
+When did you first feel at home with me?
+Which season of our life together has been your favourite so far?
+What is a moment you wish we had on video?
+
+@deck | money-and-home | Money and home | Money and home questions for couples | The practical conversations that keep a shared life running smoothly. Curious, not accusing; you are on the same side of the table.
+What did you learn about money while growing up?
+What is a purchase you have never regretted?
+What does feeling financially secure mean to you?
+Which expense is always worth it to you?
+How do you feel about spending on experiences compared with things?
+What is one money habit of yours you would like to improve?
+How should we decide on big purchases?
+What would you do with an unexpected windfall?
+Which household jobs do you mind least, and which most?
+What makes a home feel tidy enough for you?
+How much time alone at home do you need in a normal week?
+What is something about how we share the workload that works well?
+What is one thing about our routines you would change?
+How do you like guests and visits to be handled?
+What is your idea of a restful evening at home?
+What would you like us to save for next?
+How do you prefer to talk about money: scheduled, or as it comes up?
+What is a small luxury that makes daily life better for you?
+What did your family do around the house that you would like to copy, or avoid?
+How should we split things so it feels fair to both of us?
+What would make mornings easier for us?
+What is a financial goal that would excite you to reach together?
+How do you feel about lending money to friends or family?
+What does generosity look like to you?
+If we redesigned one room, which would it be and how?
+
+@deck | long-distance | Long-distance | Questions for long-distance couples | For calls and texts when you are miles apart. They go beyond how your day was and help you stay part of each other's ordinary life.
+What was the best five minutes of your day?
+What is the view from where you are sitting right now?
+What did you eat today that I would have liked?
+What is something that happened this week that you wished I had been there for?
+Which part of your daily routine do I not know about yet?
+What should be the first thing we do when we are next together?
+What is a small thing I could do from here that would make you feel cared for?
+What is the hardest time of day to be apart?
+What made you think of me this week?
+What would you like us to watch, read or listen to at the same time?
+What is one thing about your place I should picture when we talk?
+How can we make goodbyes on calls a bit easier?
+What is something new you tried since we last saw each other?
+Which of my messages do you most like getting: voice, photo or text?
+What do you want our next visit to feel like?
+What is a worry about the distance that we have not talked about?
+Who did you spend time with this week, and how was it?
+What is a ritual we could start that would fit both our schedules?
+What are you most looking forward to once the distance ends?
+What is a song that matches your mood today?
+What is something you are proud of us for, doing this apart?
+What would you show me first if I arrived at your door tonight?
+When do you feel closest to me, even from far away?
+What is one thing we do well on calls, and one thing to try differently?
+What would make tomorrow a good day for you?
+
+@deck | gratitude | Gratitude | Gratitude questions for couples | Appreciation said out loud. Pick one before bed or over coffee; it takes two minutes and tends to change the mood of the whole day.
+What is something I did this week that you appreciated?
+What is a quality of mine you rely on?
+When did I last make your day easier?
+What is something about our life right now that you are thankful for?
+Which everyday thing I do would you miss most?
+What is a way I have helped you grow?
+What part of our home life makes you happiest?
+Which friend or relative are we lucky to have?
+What is a recent moment between us that made you smile afterwards?
+What do I do that makes you feel understood?
+What is something difficult I handled in a way you admired?
+What is a small pleasure we share that you never get tired of?
+What have I taught you without meaning to?
+What is something you have never thanked me for?
+When did you last feel lucky to be with me?
+What about this past month are you most grateful for?
+What is a strength of ours as a couple?
+What do I say that reliably cheers you up?
+What is one thing your body or health let you do today?
+Which of my habits has quietly become one of your favourite things?
+What is something good that came out of a hard time?
+Who helped you this week, and how?
+What is a comfort we have now that we once only hoped for?
+What would you like to be thanked for more often?
+What is one thing about today that was better because we are together?
+
+@deck | long-term | Long-term and married | Questions for married and long-term couples | You know each other's coffee order. These reach past the logistics to the person, who has kept changing while you were busy.
+What is something about you that has changed since we met and that I may have missed?
+What do you miss from our early days that we could bring back?
+When do you feel most connected to me in an ordinary week?
+What is one thing I do now that I did not do before, and that you love?
+What part of our routine has started to feel like a rut?
+What have we become really good at as a pair?
+What is a conversation we keep postponing?
+How has what you need from me changed over the years?
+What is your favourite version of us so far?
+What is something new you would like us to try this year?
+When did you last see me in a new light?
+What do you wish we made more time for?
+What are you interested in lately that we have not talked about?
+How can I support you better during busy seasons?
+What is a way we have surprised you as a couple?
+What tradition of ours matters most to you?
+What makes you feel chosen by me, even now?
+What is one thing we should stop doing out of habit?
+How do we usually repair after a disagreement, and does it work for you?
+What would a perfect anniversary look like this year?
+What have you learned about love from being with me this long?
+Which of our shared goals needs updating?
+What do you want our next chapter to be about?
+What small daily gesture means more to you than I realise?
+If we were meeting for the first time today, what would you want to ask me?
+
+@deck | road-trip | Road trip | Road trip questions for couples | Made for long drives: no eye contact needed, plenty of time and nobody can leave. Driver chooses the first one.
+What is the best road trip snack, and what is the worst?
+If we could keep driving for a week, where would we end up?
+What is the first album you ever bought or downloaded?
+Which song must be played at full volume, no exceptions?
+What is the most beautiful place you have ever seen from a car window?
+What was your family's car like when you were small?
+If we had to move to a town we pass through today, which looks best?
+What is your most memorable travel disaster?
+Would you rather navigate or drive, and are you being honest?
+What is a place you visited once and still think about?
+Which three people, living or dead, would you invite into this car?
+What podcast or audiobook would you make everyone listen to?
+What is the longest you have ever been lost?
+What would you put on a billboard for everyone on this road to read?
+Which roadside attraction would you actually stop for?
+What is a childhood holiday you remember clearly?
+If this trip had a title, what would it be?
+What is your rule for who controls the music?
+What is the best meal you have ever had while travelling?
+Which country would you most like to drive across?
+What is something you always pack and never use?
+What is the best thing about travelling with me, and the most annoying?
+If we bought a camper van, what would we name it?
+What is a detour that turned out better than the plan?
+Where should we go next, once this trip is over?
+
+@deck | check-in | Weekly check-in | Weekly check-in questions for couples | A short, regular conversation that catches small things while they are still small. Ten to twenty minutes, same time each week.
+What went well between us this week?
+When did you feel most appreciated by me this week?
+Is there anything from this week that is still on your mind?
+What is one thing I could do next week that would help you?
+How are your energy and stress levels at the moment, out of ten?
+Did we get enough time together this week?
+Is there anything I said or did that landed badly?
+What is coming up next week that we should plan around?
+What is one thing you would like us to do for fun in the next seven days?
+How are we doing at sharing the load at home?
+Is there a decision we need to make soon?
+What is something you need more of from me right now?
+What is something you need less of?
+Did you get enough time to yourself this week?
+What are you worried about that I can help carry?
+What made you laugh this week?
+Is there anything we have been avoiding?
+What is one thing we handled well as a team?
+How connected did you feel to me this week, out of ten, and what would raise it by one?
+Is there someone we should make time to see?
+What would make this weekend restful for you?
+How are we doing with money this month?
+What is one small thing I can do tomorrow to make your day easier?
+What are you looking forward to?
+What is one thing you want to thank me for?
+
+@deck | ten-minutes | Ten-minute questions | Quick questions for busy couples | For the nights when ten minutes is all you have. One question each over the washing-up still counts.
+What was the high point of your day?
+What was the low point?
+What is one thing you are looking forward to tomorrow?
+What is taking up most of your headspace right now?
+What made you smile today?
+Did anything surprise you today?
+What is one thing you would like help with this week?
+Who did you enjoy talking to today?
+What are you reading, watching or listening to at the moment?
+What is something small you are proud of from today?
+How did you sleep, really?
+What would make tonight feel restful?
+What is one thing you would like us to do this weekend?
+Is there anything you need from me before the day ends?
+What did you have for lunch, and was it any good?
+What is a tiny thing that annoyed you today that we can laugh about?
+What is the best thing you ate this week?
+What is on your mind that you have not said yet?
+If today had a headline, what would it be?
+What is one word for how you are feeling right now?
+What was the kindest thing you saw or did today?
+What do you want more of tomorrow?
+What is something you learned today?
+What part of today would you happily repeat?
+What is one thing I can take off your plate tomorrow?

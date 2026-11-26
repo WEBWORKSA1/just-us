@@ -1,0 +1,124 @@
+# Date categories:  @cat | slug | Name | intro
+# Ideas (under @ideas):  Title | tags | cost 0-3 | home or out | minutes | description
+# cost: 0 free, 1 under about $20 for two, 2 about $20-60, 3 more.  "at-home" and "free" tags are added automatically.
+
+@cat | at-home | At-home | Date nights that need no booking, no babysitter and no shoes. Clear the table, put the phones in another room and pick one.
+@cat | free | Free | Dates that cost nothing at all. A good evening depends on attention far more than on money, and these prove it.
+@cat | outdoors | Outdoor | Fresh air does half the work. Walks, water, markets and night skies for when you want to be out of the house together.
+@cat | rainy-day | Rainy-day | Weather cancelled the plan? These indoor dates work when it is pouring, freezing or simply too grey to go out.
+@cat | long-distance | Long-distance | Dates built for two time zones and one video call, plus rituals that make the days between visits feel shorter.
+@cat | anniversary | Anniversary | Ways to mark another year: some look back at how you got here, some are simply worth dressing up for.
+@cat | first-date | First & early | Low-pressure first date ideas and early-days dates where talking is easy, leaving is easy and nobody has to perform.
+@cat | double-date | Group & double | Dates that are better with another couple or a few friends: a little competition, plenty to talk about afterwards.
+@cat | foodie | Foodie | For couples who plan the day around the next meal: cook it, taste it, hunt it down or judge it together.
+@cat | creative | Creative | Make something side by side. Nobody needs talent; the point is the mess, the laughing and the thing you keep.
+@cat | active | Active | Dates that get you moving, from a gentle stretch at home to a climb with a view at the top.
+@cat | cozy | Cozy | Slow, warm, quiet dates for the nights when the best plan is a blanket and each other.
+@cat | adventure | Adventurous | Try something neither of you has done. New experiences shared are the ones you will still talk about next year.
+@cat | after-bedtime | After-bedtime | For parents: dates that start when the house goes quiet, need no sitter and fit in the hour or two you have left.
+@cat | spring | Spring | Longer evenings, markets reopening, things in bloom. Dates for the first warm weeks of the year.
+@cat | summer | Summer | Late sunsets and warm nights: water, open air, food eaten outside and no rush to get home.
+@cat | fall | Fall | Crisp air, changing leaves and harvest season. Dates for sweaters, orchards and early evenings.
+@cat | winter | Winter | Cold-weather dates, half of them out in the frost and half of them firmly under a blanket.
+
+@ideas
+Cook a cuisine neither of you has tried | foodie,rainy-day,creative,cozy | 2 | home | 120 | Pick a country, choose one recipe each, shop together and cook side by side. Score the result out of ten and keep the winner.
+Blind taste test | foodie,rainy-day,double-date,after-bedtime | 1 | home | 45 | Buy five versions of one thing, such as chocolate, crisps or cola. Blindfold each other, taste, rank, then reveal the labels.
+Living-room picnic | cozy,rainy-day,after-bedtime,winter | 1 | home | 60 | Blanket on the floor, finger food, a candle and both phones in another room. Surprisingly different from eating at the table.
+Paint each other's portrait | creative,rainy-day,after-bedtime | 1 | home | 60 | Set a twenty-minute timer and paint or draw each other. Swap at the end. The worse the portraits, the better the night.
+Blanket fort film night | cozy,rainy-day,winter,anniversary | 0 | home | 150 | Build a proper fort from chairs and sheets, then watch a film from the year you met. Snacks are compulsory.
+Two-person book club | cozy,long-distance,rainy-day | 0 | home | 60 | Read the same short story or article during the week, then talk it through over tea. Take turns choosing.
+Homemade pizza face-off | foodie,double-date,after-bedtime | 1 | home | 90 | Same dough, separate toppings, one oven. Each of you builds a pizza in secret and the other has to judge it honestly.
+Memory lane slideshow | anniversary,cozy,after-bedtime,long-distance | 0 | home | 60 | Each of you picks ten photos from your time together and explains why. Cast them to the big screen if you can.
+Board game tournament | double-date,rainy-day,cozy,winter | 0 | home | 120 | Best of three across three different games. Loser makes breakfast. Keep a running scoreboard on the fridge.
+Learn a dance from a video | active,creative,rainy-day,after-bedtime | 0 | home | 45 | Find a beginner swing, salsa or waltz tutorial, push the sofa back and get through one full song without stopping.
+Plan a dream trip | cozy,long-distance,after-bedtime | 0 | home | 60 | Choose a destination with no budget limit and plan it properly: route, stays, one meal each. Save it for someday.
+Cocktail or mocktail lab | foodie,creative,after-bedtime,double-date | 1 | home | 60 | Use whatever is in the cupboard. Each of you invents a drink for the other, names it and writes the menu description.
+Puzzle and podcast night | cozy,rainy-day,winter | 0 | home | 120 | A jigsaw on the table, a podcast you both like and nowhere to be. Talking happens sideways, which is often easiest.
+Letters to open in a year | anniversary,cozy,long-distance | 0 | home | 45 | Write each other a letter about right now: what you love, what you hope for. Seal them and set a reminder for next year.
+Spa night at home | cozy,after-bedtime,winter | 1 | home | 90 | Face masks, a foot soak, a playlist and warm towels from the dryer. Take turns giving a ten-minute shoulder rub.
+Co-op video game night | cozy,rainy-day,long-distance,after-bedtime | 0 | home | 120 | Pick a game where you are on the same team. Working toward one goal beats competing when the aim is to feel close.
+Bake something ambitious | foodie,rainy-day,winter,creative | 1 | home | 150 | Choose a bake that is slightly beyond you both, like croissants or a layer cake. Success and failure are equally memorable.
+Fondue night | foodie,cozy,winter,anniversary | 2 | home | 90 | Cheese first, chocolate after. Eating slowly from one pot forces a long, unhurried dinner conversation.
+Balcony or backyard stargazing | outdoors,cozy,summer,after-bedtime | 0 | home | 45 | Lights off, blanket out, a free sky-map app if you want one. Give your eyes fifteen minutes to adjust before you judge the view.
+Karaoke for two | creative,rainy-day,double-date,after-bedtime | 0 | home | 60 | Search any song plus the word karaoke. Each of you picks three for yourself and one the other person has to sing.
+Recreate your first date at home | anniversary,cozy | 1 | home | 120 | Same food, same music, same outfits if they still fit. Compare what each of you remembers; the versions never quite match.
+Build the playlist of us | anniversary,long-distance,cozy,creative | 0 | home | 60 | Add songs in order: the one from when you met, the road-trip one, the one from the hard month. Tell the story of each.
+Breakfast for dinner | foodie,cozy,after-bedtime | 1 | home | 60 | Pancakes, eggs, the good coffee and pyjamas at seven in the evening. Low effort, high comfort.
+No-screens candlelit evening | cozy,winter,after-bedtime | 0 | home | 120 | Switch off everything with a screen for one evening. Candles, cards, talking. Notice how long the night suddenly feels.
+Plant a windowsill herb garden | creative,spring | 1 | home | 60 | A few pots, some soil and three herbs you actually cook with. Name them. Share watering duty.
+Trivia night about each other | creative,rainy-day,double-date,long-distance | 0 | home | 60 | Each of you writes ten quiz questions about your own life. Swap and answer. Works just as well over a video call.
+Learn ten phrases in a new language | creative,long-distance,rainy-day | 0 | home | 45 | Pick a language tied to a trip you would like to take. Learn ten useful phrases and use them for the rest of the night.
+Stretch or yoga session together | active,cozy,after-bedtime | 0 | home | 40 | Follow a gentle beginner video side by side. A calm way to end a tense week without having to talk about it yet.
+Themed movie marathon | cozy,rainy-day,winter,foodie | 1 | home | 240 | Pick a theme, such as one director or one decade, and cook snacks to match. Intermission walks keep it from becoming a nap.
+Make a time capsule | anniversary,creative | 0 | home | 60 | A shoebox, today's receipts, a photo, a note each, predictions for five years from now. Tape it shut and date it.
+Paper-folding challenge | creative,rainy-day | 0 | home | 45 | Follow the same origami tutorial at the same time and compare results. Start with a crane; end with whatever happens.
+Fire pit or balcony s'mores | outdoors,cozy,fall,summer | 1 | home | 90 | A fire pit if you have one, a candle and skewers if you do not. Sticky fingers and an excuse to sit outside in the dark.
+Dessert-only dinner | foodie,after-bedtime | 1 | home | 60 | Skip the main course once. Three small desserts, shared, eaten slowly. Rank them and argue about the ranking.
+Vision board for the year ahead | creative,winter,anniversary | 0 | home | 90 | Old magazines or a shared online board. Build one for the two of you: places, habits, a project, something just for fun.
+Two truths and a dream | cozy,first-date,after-bedtime,long-distance | 0 | home | 30 | Each of you shares two true stories and one thing you wish had happened. The other guesses which is the dream.
+Watch party over video call | long-distance,cozy | 0 | home | 120 | Press play at the same second and keep the call open. Agree a snack in advance so you are eating the same thing.
+Cook the same recipe on a call | long-distance,foodie | 1 | home | 90 | Choose a simple recipe, shop separately, cook together on video and eat at the same table, five hundred miles apart.
+Open a surprise delivery together | long-distance,anniversary | 2 | home | 30 | Each sends the other a small parcel timed to arrive the same week. Open them on a call, at the same moment.
+Virtual museum tour | long-distance,creative,rainy-day | 0 | home | 60 | Many major museums offer free online tours. Share a screen, wander and each choose the one piece you would take home.
+Online game night | long-distance,cozy | 0 | home | 90 | Free browser versions exist for drawing games, word games and cards. Keep voices on; the chatter matters more than the score.
+Parallel evening on a call | long-distance,cozy | 0 | home | 60 | Stay on video while each of you does something ordinary: cooking, reading, folding laundry. Being around each other is the point.
+Map out your next visit | long-distance,adventure | 0 | home | 45 | Open a shared map and pin what you will do when you are next in the same place. Anticipation is half the pleasure.
+Golden-hour walk with a flask | outdoors,active,cozy,spring,fall | 0 | out | 60 | Check when the sun sets, leave forty minutes before, bring something hot to drink and take the long way round.
+Farmers' market challenge | foodie,outdoors,spring,summer,first-date | 1 | out | 90 | Give yourselves ten dollars each and split up. Meet in twenty minutes and build lunch from whatever you both bought.
+Hike to a view | outdoors,active,adventure,fall,spring | 0 | out | 180 | Pick a trail that ends somewhere worth sitting. Pack a snack for the top and stay until one of you gets cold.
+Picnic in a park you have never visited | outdoors,foodie,summer,spring,first-date | 1 | out | 120 | Choose a green space on the map that neither of you knows. Simple food, a blanket and no plan for afterwards.
+Bookshop date | cozy,rainy-day,first-date | 1 | out | 90 | Separate for fifteen minutes and each choose a book the other should read. Explain your choice over coffee.
+Museum on a free day | creative,rainy-day,first-date | 0 | out | 120 | Most museums have a free evening or day each month. Each of you picks a favourite piece and explains it badly.
+Mini golf | active,first-date,double-date,summer | 1 | out | 75 | Silly enough that nobody can take it seriously. Invent a forfeit for every hole lost.
+Bowling night | active,double-date,rainy-day,first-date | 1 | out | 90 | Rented shoes level everyone. Bowl one round normally and one with your weaker hand.
+Thrift shop outfit challenge | creative,adventure,double-date | 1 | out | 90 | Set a ten-dollar limit and choose a complete outfit for each other. Wear it to dinner. No vetoes.
+Coffee shop crawl | foodie,first-date,rainy-day,winter | 1 | out | 120 | Three cafes, one small drink in each, a walk in between. Score them on coffee, chairs and people-watching.
+Take a class together | creative,foodie,anniversary,first-date | 3 | out | 150 | Pottery, pasta, glass-blowing, knife skills. Being beginners side by side is a quick way to see each other fresh.
+Live music at a small venue | adventure,first-date,double-date | 2 | out | 150 | Pick a local act you have never heard of. Small rooms are cheap, loud in a good way and easy to leave if it is awful.
+Comedy or open-mic night | adventure,first-date,double-date | 2 | out | 120 | Laughing in the same room does a lot of work for you. Sit a few rows back unless you want to be part of the act.
+Bike ride with a snack stop | active,outdoors,spring,summer | 0 | out | 120 | Pick a bakery or ice-cream place a few miles away and make it the destination. The ride home is the dessert tax.
+Tourists in your own city | adventure,outdoors,first-date | 1 | out | 180 | Do the things visitors do and locals never get round to: the viewpoint, the walking tour, the famous sandwich.
+Outdoor or drive-in movie | outdoors,summer,cozy | 2 | out | 150 | Blankets, a flask and a film under the sky. Check local parks; many run free screenings through the warm months.
+Indoor climbing session | active,adventure,first-date,rainy-day | 2 | out | 120 | Most gyms offer a beginner session with shoes included. Cheering each other up a wall builds trust quickly.
+Kayak, canoe or paddleboard | active,outdoors,summer,adventure | 2 | out | 120 | Rent by the hour on calm water. A double kayak is a famously honest test of how well you communicate.
+Volunteer for a morning | adventure,double-date | 0 | out | 180 | A food bank shift, a park clean-up, a shelter walk. Doing something useful together is its own kind of closeness.
+Dessert crawl | foodie,first-date,double-date | 2 | out | 90 | Skip dinner and visit three places for one shared dessert each. Walk between them and keep score.
+Botanical garden stroll | outdoors,spring,first-date,anniversary | 1 | out | 90 | Slow, pretty and built for wandering. Each of you chooses the plant that most resembles the other, and explains.
+Food truck or night market dinner | foodie,outdoors,summer,first-date | 2 | out | 90 | Order one thing each from different stalls and share everything. Standing up to eat makes it feel like a small festival.
+Ice skating | active,winter,first-date,double-date | 2 | out | 90 | Holding on to each other is practically required. Finish with something hot to drink while your feet recover.
+Pick-your-own fruit | outdoors,fall,summer,foodie | 2 | out | 150 | Apples in autumn, berries in summer. Pick more than you need and turn the surplus into a pie or jam that evening.
+Pumpkin patch and carving | fall,outdoors,creative | 2 | out | 150 | Choose a pumpkin for each other, carve them at home and put both on the doorstep. Roast the seeds.
+Holiday lights walk | winter,cozy,outdoors | 0 | out | 60 | Find the most decorated streets nearby and judge every house. Hot chocolate in a flask, gloves, slow pace.
+Beach day with a sunset finish | outdoors,summer,active | 1 | out | 240 | Arrive mid-afternoon when the crowds thin, swim, eat something salty and stay until the sun is gone.
+Drive out to see the stars | outdoors,adventure,summer,anniversary | 0 | out | 150 | Get thirty minutes away from city lights, lie on the bonnet or a blanket and stay for one full hour.
+Arcade night | active,first-date,double-date,rainy-day | 2 | out | 90 | Set a token budget, pool your tickets and choose one ridiculous prize together at the end.
+Pub or cafe quiz night | double-date,first-date,foodie | 2 | out | 120 | Join a quiz as a team of two. You will find out fast which of you knows capitals and which knows pop lyrics.
+Dress up for a proper dinner | foodie,anniversary | 3 | out | 150 | Book the place you keep saying is for a special occasion. Order the thing you cannot make at home, and dessert.
+Go back to where you met | anniversary,adventure | 1 | out | 120 | Return to the place it started, or the nearest version of it. Retell the story from both sides.
+Flea market morning | adventure,outdoors,spring,fall | 1 | out | 120 | Five dollars each to find the strangest object for the other. Coffee first; haggling is optional.
+Photo walk | creative,outdoors,first-date,fall | 0 | out | 90 | Choose a theme such as doors, dogs or one colour. Shoot on your phones for an hour and pick each other's best three.
+Library date | cozy,rainy-day | 0 | out | 60 | Each choose three books for the other from sections they would never visit. Read the first pages aloud, quietly.
+Escape room | adventure,double-date,rainy-day | 3 | out | 90 | Sixty minutes, one locked room and a clear view of how you each behave under pressure. Better with a second couple.
+Aquarium or zoo visit | first-date,rainy-day,adventure | 2 | out | 150 | Plenty to look at and talk about, with no pressure to fill silences. Decide which animal each of you would be.
+Sledding or snowman building | winter,active,outdoors | 0 | out | 90 | The first decent snowfall, a hill, something to slide on. Build a snowman of each other afterwards.
+Fly a kite | outdoors,spring,active | 1 | out | 60 | A cheap kite, a windy hill and twenty minutes of getting it wrong before it finally lifts.
+Scavenger hunt or geocaching | adventure,outdoors,active,double-date | 0 | out | 120 | Use a free geocaching app or write each other a list of ten things to find in your neighbourhood.
+Day trip to a town an hour away | adventure,anniversary,fall | 2 | out | 360 | Choose a small town within an hour, arrive with no plan and ask the first shopkeeper where to eat.
+Tour open houses | adventure | 0 | out | 120 | Spend a weekend afternoon wandering homes for sale. Decide where the sofa would go and who gets the good wardrobe.
+Garden centre plant adoption | spring,creative | 1 | out | 60 | Each choose a plant for the other, name it and take joint custody. Low stakes, long-lasting souvenir.
+Paint-your-own pottery | creative,rainy-day,first-date | 2 | out | 90 | Paint a mug for each other. You collect them a week later, which builds in a second date.
+Roller skating | active,double-date,first-date | 2 | out | 90 | Loud music, questionable balance and a good reason to hold hands. Rinks often run cheap evening sessions.
+Tasting flight | foodie,anniversary,double-date | 2 | out | 120 | Wine, cider, tea, coffee or chocolate. Order a flight, taste slowly and write your own ridiculous tasting notes.
+Autumn leaves drive | fall,outdoors,cozy | 1 | out | 180 | Pick a scenic road, a playlist and a farm stand to stop at. Take turns choosing when to pull over.
+Lake or pool afternoon | summer,active,outdoors | 1 | out | 180 | Swim, float, read, repeat. Bring more snacks than seems reasonable.
+Ferry or train ride to nowhere | adventure,cozy,first-date | 1 | out | 120 | Take a cheap scenic route to the end of the line, have a coffee and come straight back. The ride is the date.
+Sunrise breakfast picnic | outdoors,adventure,summer,spring | 1 | out | 90 | Set an alarm, bring pastries and a flask and watch the day start from somewhere with a view. Nap later.
+Dog park visit | outdoors,first-date | 0 | out | 60 | Bring your own dog or simply go to watch. Award prizes for best ears, worst behaviour and most like you.
+Hot chocolate walk | winter,cozy,outdoors,first-date | 1 | out | 45 | Buy the best hot chocolate nearby and walk until the cups are empty. Short, warm and easy to extend.
+Late-night diner run | adventure,foodie | 1 | out | 60 | Go out after ten for pie, chips or pancakes in a booth. Ordinary food feels like an occasion at that hour.
+Fifteen-dollar dinner challenge | foodie,creative,adventure | 1 | out | 90 | Fifteen dollars and fifteen minutes in the supermarket to shop for a three-course meal. Cook it together afterwards.
+Hotel night in your own town | anniversary,adventure | 3 | out | 720 | Book one night somewhere nearby with a good breakfast. A different bed and no chores change the whole mood.
+Community centre class | creative,active | 2 | out | 90 | Ballroom, ceramics, archery, improv. Local centres run one-off sessions cheaply, and you get to be new at it together.
+Racket sports in the park | active,outdoors,double-date,summer | 0 | out | 60 | Tennis, pickleball or badminton on a public court. Play one serious set and one where everything counts as in.
+Planetarium or science museum | rainy-day,creative,first-date | 2 | out | 120 | Lean back under a dome of stars, then press every button in the hands-on gallery like the children do.
