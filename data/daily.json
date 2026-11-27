@@ -82,5 +82,17 @@
    "get a surprise day out"
   ],
   "challenge": "Trade one compliment that has nothing to do with looks."
+ },
+ {
+  "date": "2026-11-27",
+  "deck": "money-and-home",
+  "deckName": "Money and home",
+  "q": "What would you like us to save for next?",
+  "idea": "letters-to-open-in-a-year",
+  "wyr": [
+   "watch the sunrise together",
+   "watch the sunset together"
+  ],
+  "challenge": "Stretch for five minutes side by side before bed."
  }
 ]
